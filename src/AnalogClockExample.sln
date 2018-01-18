@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalogClockExample", "AnalogClockExample\AnalogClockExample.csproj", "{3B9A2ED2-F6D8-4B5E-A29E-D0EDAE2E461A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{59C60853-D2D2-4906-BD88-4DCFAB4D0581}"
+	ProjectSection(SolutionItems) = preProject
+		..\image.gif = ..\image.gif
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
